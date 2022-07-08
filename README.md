@@ -1,4 +1,4 @@
-# AppAuthenthication
+# Authenthication App
 
 Todo fluxo de login com validações
 
